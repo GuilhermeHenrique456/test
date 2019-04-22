@@ -10,7 +10,7 @@ class contato extends Model
 		return(object){
 			'nome'=>'guilherme',
 			'tel'=>'991168863', 
-            a
+            
 		}
 	}
 }
