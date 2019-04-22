@@ -9,7 +9,8 @@ class contato extends Model
 	public lista(){
 		return(object){
 			'nome'=>'guilherme',
-			'tel'=>'991168863'
+			'tel'=>'991168863', 
+            a
 		}
 	}
 }
